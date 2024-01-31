@@ -51,7 +51,7 @@
         <header class="main-header main-header--three sticky-header sticky-header--normal">
             <div class="main-header__inner">
                 <div class="main-header__logo">
-                    <a href="index.html">
+                    <a href="/">
                         <img src="assets/images/logo-light.png" alt="Hiredots HTML" width="180">
                     </a>
                 </div><!-- /.main-header__logo -->
