@@ -24,7 +24,7 @@
                                 <h2 class="main-slider-three__title">HR CONSULTANCY, RECRUITING<br/> AND PLACEMENT</h2><!-- slider-title -->
                                 <p class="main-slider-three__text">Solving Recruitment Using Technology</p><!-- slider-text -->
                                 <div class="main-slider-three__btn">
-                                    <a href="services" class="hiredots-btn"><span>Discover More</span></a><!-- slider-btn -->
+                                    <a href="#" class="hiredots-btn"><span>Discover More</span></a><!-- slider-btn -->
                                 </div>
                             </div>
                         </div>
@@ -44,7 +44,7 @@
                                 <h2 class="main-slider-three__title">YOUR PARTNER FOR<br/> OVERSEAS RECRUITMENT</h2><!-- slider-title -->
                                 <p class="main-slider-three__text">Solving Recruitment Using Technology</p><!-- slider-text -->
                                 <div class="main-slider-three__btn">
-                                    <a href="services" class="hiredots-btn"><span>Discover More</span></a><!-- slider-btn -->
+                                    <a href="#" class="hiredots-btn"><span>Discover More</span></a><!-- slider-btn -->
                                 </div>
                             </div>
                         </div>
