@@ -62,7 +62,7 @@
                 </div><!-- /.col-lg-6 -->
                 <div class="col-lg-6">
                     <div class="contact-one__left">
-                        <form class="contact-one__form contact-form-validated form-one background-base wow fadeInUp" data-wow-duration="1500ms" action="https://thegenius.co/html/hiredots/inc/sendemail.php">
+                        <form class="contact-one__form contact-form-validated form-one background-base wow fadeInUp" data-wow-duration="1500ms" action="">
                             <div class="form-one__group">
                                 <div class="form-one__control form-one__control--full">
                                     <input type="text" name="name" placeholder="Your name">
