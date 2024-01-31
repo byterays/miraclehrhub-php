@@ -112,11 +112,11 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="fa fa-envelope"></i>
-                <a href="mailto:needhelp@hiredots.com">needhelp@hiredots.com</a>
+                <a href="mailto:info@miraclehrhub.com">info@miraclehrhub.com</a>
             </li>
             <li>
                 <i class="fa fa-phone-alt"></i>
-                <a href="tel:666-888-0000">666 888 0000</a>
+                <a href="tel:(+971)521984592">+(971) 521 984 592</a>
             </li>
         </ul><!-- /.mobile-nav__contact -->
         <div class="mobile-nav__social">
