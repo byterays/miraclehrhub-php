@@ -1,108 +1,13 @@
 <?php ob_start(); ?>
 
 <?php 
-    $widgets=array("home-page-banner", "feature-2-block", "feature-3-block", "service-2-block"); 
+    $widgets=array("home-page-banner", "feature-2-block", "feature-3-block", "service-2-block", "faq-block"); 
 
     foreach($widgets as $widget){
         include "template/widgets/{$widget}.php";
     }
 ?>
-<section class="faq-one">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-6">
-                <div class="faq-one__content">
-                    <div class="sec-title text-left">
 
-                        <h6 class="sec-title__tagline">understand requirements</h6><!-- /.sec-title__tagline -->
-
-                        <h3 class="sec-title__title">Look a Right Candidate for Your Company</h3><!-- /.sec-title__title -->
-                    </div><!-- /.sec-title -->
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="faq-one__experiance">
-                                <img src="assets/images/resources/faq-2-img.jpg" alt="faq">
-                                <div class="faq-one__experiance__content">
-                                    <div class="faq-one__experiance__icon"><span class="icon-quality"></span></div><!-- /.funfact-one__icon -->
-                                    <div class="faq-one__experiance__count count-box"><span class="count-text" data-stop="30" data-speed="1500"></span>+</div><!-- /.funfact-one__count -->
-                                    <p class="faq-one__experiance__text">Years of Working<br> Experience</p><!-- /.funfact-one__text -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <h4 class="faq-one__content__title">Donec Quis felis Simply Free Text Commodo</h4>
-                            <p class="faq-one__content__text">Lorem ipsum is simply free text dol sit amet, passag notted is simply free text dol sit amet, passage.</p>
-                        </div>
-                    </div>
-                </div>
-            </div><!-- /.col-lg-4 col-xl-3 -->
-            <div class="col-xl-6">
-                <div class="faq-page__accordion hiredots-accrodion" data-grp-name="hiredots-accrodion">
-                    <div class="accrodion">
-                        <div class="accrodion-title">
-                            <h4>
-                                What Does your Process Look Like?
-                                <span class="accrodion-title__icon"></span><!-- /.accrodion-title__icon -->
-                            </h4>
-                        </div><!-- /.accordian-title -->
-                        <div class="accrodion-content">
-                            <div class="inner">
-                                <p>
-                                    There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.
-                                </p>
-                            </div><!-- /.accordian-content -->
-                        </div>
-                    </div><!-- /.accordian-item -->
-                    <div class="accrodion active">
-                        <div class="accrodion-title">
-                            <h4>Learn How We Create Unmatched Solutions
-                                <span class="accrodion-title__icon"></span><!-- /.accrodion-title__icon -->
-                            </h4>
-                        </div><!-- /.accordian-title -->
-                        <div class="accrodion-content">
-                            <div class="inner">
-                                <p>
-                                    There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.
-                                </p>
-                            </div><!-- /.accordian-content -->
-                        </div>
-                    </div><!-- /.accordian-item -->
-                    <div class="accrodion">
-                        <div class="accrodion-title">
-                            <h4>
-                                What We should do If our skin gets dry?
-                                <span class="accrodion-title__icon"></span><!-- /.accrodion-title__icon -->
-                            </h4>
-                        </div><!-- /.accordian-title -->
-                        <div class="accrodion-content">
-                            <div class="inner">
-                                <p>
-                                    There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.
-                                </p>
-                            </div><!-- /.accordian-content -->
-                        </div>
-                    </div><!-- /.accordian-item -->
-                    <div class="accrodion">
-                        <div class="accrodion-title">
-
-                            <h4>How Long do Services Take to Complete?
-                                <span class="accrodion-title__icon"></span><!-- /.accrodion-title__icon -->
-
-                            </h4>
-                        </div><!-- /.accordian-title -->
-                        <div class="accrodion-content">
-                            <div class="inner">
-                                <p>
-                                    There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.
-                                </p>
-                            </div><!-- /.accordian-content -->
-                        </div>
-                    </div><!-- /.accordian-item -->
-                </div>
-            </div><!-- /.col-lg-6 col-xl-6 -->
-        </div><!-- /.row -->
-    </div><!-- /.container -->
-</section><!-- /.faq-page-accordion -->
 <div class="project-one project-one--home-three">
     <div class="container">
         <div class="sec-title text-center">
