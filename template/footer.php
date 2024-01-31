@@ -7,11 +7,14 @@
                     <div class="row">
                         <div class="col-md-6 col-xl-5">
                             <div class="footer-widget footer-widget--about">
-                                <a href="index.html" class="footer-widget__logo">
-                                    <img src="assets/images/logo-light.png" width="125" alt="Hiredots HTML Template">
+                                <a href="/" class="footer-widget__logo">
+                                    <img src="assets/images/logo-light.png" width="250" alt="Hiredots HTML Template">
                                 </a>
-                                <p class="footer-widget__text">Lorem ipsum dolor sit amet, consect etur adi pisicing elit <br>
-                                    sed do eiusmod tempor incididunt ut labore.</p>
+                                <p class="footer-widget__text">
+                                    HR CONSULTANCY, RECRUITING AND PLACEMENT<br/>
+                                    YOUR PARTNER FOR OVERSEAS RECRUITMENT<br/>
+                                    Bridging Talent to Opportunity: Empowering Your Workforce Journey
+                            </p>
                                 <div class="footer-widget__author">
                                     <div class="footer-widget__author__img">
                                         <img src="assets/images/resources/footer-about-avata.png" alt="">
@@ -19,7 +22,7 @@
                                     <div>
                                         <div class="footer-widget__author__info">
                                             <span class="footer-widget__author__tagline">Need Help?</span>
-                                            <h3 class="footer-widget__author__title"><a href="contact.html">Book Appointment </a></h3>
+                                            <h3 class="footer-widget__author__title"><a href="contact">Book Appointment </a></h3>
                                         </div>
                                     </div>
                                 </div>
@@ -29,11 +32,11 @@
                             <div class="footer-widget footer-widget--links">
                                 <h2 class="footer-widget__title">Explore</h2><!-- /.footer-widget__title -->
                                 <ul class="list-unstyled footer-widget__links">
-                                    <li><a href="about.html">About Company</a></li>
-                                    <li><a href="team.html">Meet the Team</a></li>
-                                    <li><a href="blog.html">News & Media</a></li>
-                                    <li><a href="project.html">Our Projects</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="about">About Company</a></li>
+                                    <li><a href="team">Meet the Team</a></li>
+                                    <li><a href="blog">News & Media</a></li>
+                                    <li><a href="project">Our Projects</a></li>
+                                    <li><a href="contact">Contact</a></li>
                                 </ul><!-- /.list-unstyled footer-widget__links -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-md-6 -->
@@ -41,11 +44,11 @@
                             <div class="footer-widget footer-widget--contact">
                                 <h2 class="footer-widget__title">Links</h2><!-- /.footer-widget__title -->
                                 <ul class="list-unstyled footer-widget__links">
-                                    <li><a href="about.html">Apply Now</a></li>
-                                    <li><a href="contact.html">Contract to Hire</a></li>
-                                    <li><a href="team.html">Direct Hire</a></li>
-                                    <li><a href="history.html">Executive Search</a></li>
-                                    <li><a href="about.html">Our Solutions</a></li>
+                                    <li><a href="about">Apply Now</a></li>
+                                    <li><a href="contact">Contract to Hire</a></li>
+                                    <li><a href="team">Direct Hire</a></li>
+                                    <li><a href="history">Executive Search</a></li>
+                                    <li><a href="about">Our Solutions</a></li>
                                 </ul><!-- /.list-unstyled footer-widget__links -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-md-6 -->
@@ -102,7 +105,7 @@
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/logo-light.png" width="155" alt=""></a>
+                <a href="/" aria-label="logo image"><img src="assets/images/logo-light.png" width="155" alt=""></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
