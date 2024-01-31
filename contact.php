@@ -22,11 +22,9 @@
 
                             <h6 class="sec-title__tagline">Contact us</h6><!-- /.sec-title__tagline -->
 
-                            <h3 class="sec-title__title">Feel Free to Get in Touch <br> with Hiredots</h3><!-- /.sec-title__title -->
+                            <h3 class="sec-title__title">Feel Free to Get in Touch with Bua & Miracle HR Consultancy</h3><!-- /.sec-title__title -->
                         </div><!-- /.sec-title -->
-                        <p class="contact-one__text">Aliquam hendrerit a augue insuscipit. Etiam aliquam massa quis des
-                            mauris commodo venenatis ligula commodo leez sed blandit convallis dignissim onec vel
-                            pellentesque neque.
+                        <p class="contact-one__text">Connect Today: Empower Your Workforce with Bua & Miracle HR Consultancy
                         </p><!-- /.contact-one__text -->
                         <ul class="list-unstyled contact-one__info">
                             <li class="contact-one__info__item">
@@ -36,7 +34,7 @@
                                 <div class="contact-one__info__content">
                                     <p class="contact-one__info__text">Have Question?</p>
                                     <!-- /.contact-one__info__text -->
-                                    <h4 class="contact-one__info__title">Free <a href="tel:+92(8800)-8960">+23 (000)-9850</a></h4><!-- /.contact-one__info__title -->
+                                    <h4 class="contact-one__info__title">Free <a href="tel:(+971)521984592">+(971) 521 984 592</a></h4><!-- /.contact-one__info__title -->
                                 </div><!-- /.contact-one__info__content -->
                             </li>
                             <li class="contact-one__info__item">
@@ -46,7 +44,7 @@
                                 <div class="contact-one__info__content">
                                     <p class="contact-one__info__text">Write Email </p>
                                     <!-- /.contact-one__info__text -->
-                                    <h4 class="contact-one__info__title"><a href="mailto:needhelp@company.com">needhelp@company.com</a></h4>
+                                    <h4 class="contact-one__info__title"><a href="mailto:info@miraclehrhub.com">info@miraclehrhub.com</a></h4>
                                     <!-- /.contact-one__info__title -->
                                 </div><!-- /.contact-one__info__content -->
                             </li>
@@ -56,7 +54,7 @@
                                 </div><!-- /.contact-one__info__icon -->
                                 <div class="contact-one__info__content">
                                     <p class="contact-one__info__text">Visit Anytime</p> <!-- /.contact-one__info__text -->
-                                    <h4 class="contact-one__info__title"><a href="#">30 broklyn golden street. New York</a></h4><!-- /.contact-one__info__title -->
+                                    <h4 class="contact-one__info__title"><a href="#">Bu Abdullah Investment Group,<br>Office No.209, Al Owais Building</a></h4><!-- /.contact-one__info__title -->
                                 </div><!-- /.contact-one__info__content -->
                             </li>
                         </ul><!-- /.list-unstyled -->
@@ -95,7 +93,7 @@
 <section class="contact-map">
     <div class="container">
         <div class="google-map google-map__contact">
-            <iframe title="template google map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd" class="map__contact" allowfullscreen></iframe>
+            <iframe title="Miracle HR Hub Location" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.3187704361876!2d55.33360847449136!3d25.25986002916143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d5cef7ee8cf%3A0x1fc94c378ac91af2!2sBu%20Abdullah%20Investment%20Group!5e0!3m2!1sen!2sin!4v1706687219721!5m2!1sen!2sin" class="map__contact" allowfullscreen></iframe>
         </div>
         <!-- /.google-map -->
     </div><!-- /.container-fluid -->
