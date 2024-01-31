@@ -1,0 +1,11 @@
+#Options +MultiViews
+RewriteEngine On
+RewriteBase /
+
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
+
+RewriteRule ^(.*)\.html $1.php [R=301,L]
+#RewriteRule ^(.*)\.php $1.html
+
