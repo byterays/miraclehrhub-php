@@ -12,7 +12,7 @@
 
                         <h6 class="sec-title__tagline">About our agency</h6><!-- /.sec-title__tagline -->
 
-                        <h3 class="sec-title__title">Reliable & Cost Efficiant Recruitment Agency</h3><!-- /.sec-title__title -->
+                        <h3 class="sec-title__title">Reliable & Cost Efficient Recruitment Agency</h3><!-- /.sec-title__title -->
                     </div><!-- /.sec-title -->
                     <p class="about-three__content__text">
                     Welcome to Bua & Miracle HR Consultancy L.L.C., a member of the Bu Abdullah Group of Companies and an emerging HR consulting firm based in Dubai, UAE. We specialize in providing exceptional Recruitment and HR Services to startups, established companies, and diverse industries across the Middle East, East Asia, Europe, Canada, Australia, New Zealand, and beyond.
