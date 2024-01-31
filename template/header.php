@@ -52,7 +52,7 @@
             <div class="main-header__inner">
                 <div class="main-header__logo">
                     <a href="index.html">
-                        <img src="assets/images/logo-light.png" alt="Hiredots HTML" width="125">
+                        <img src="assets/images/logo-light.png" alt="Hiredots HTML" width="180">
                     </a>
                 </div><!-- /.main-header__logo -->
                 <div class="main-header__menu">
