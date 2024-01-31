@@ -37,7 +37,7 @@
                         <img src="assets/images/project/project-1-1.jpg" alt="Staffing Solution">
                     </div>
                     <div class="project-one__content">
-                        <span class="project-one__tagline">Resources</span>
+                        <span class="project-one__tagline">Sourcing to</span>
                         <h3 class="project-one__title"><a href="project-details.html">UAE</a></h3>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                         <img src="assets/images/project/project-1-2.jpg" alt="Staffing Solution">
                     </div>
                     <div class="project-one__content">
-                        <span class="project-one__tagline">Resources</span>
+                        <span class="project-one__tagline">Sourcing to</span>
                         <h3 class="project-one__title"><a href="project-details.html">Middle East</a></h3>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                         <img src="assets/images/project/project-1-3.jpg" alt="Staffing Solution">
                     </div>
                     <div class="project-one__content">
-                        <span class="project-one__tagline">Resources</span>
+                        <span class="project-one__tagline">Sourcing to</span>
                         <h3 class="project-one__title"><a href="project-details.html">Europe</a></h3>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                         <img src="assets/images/project/project-1-4.jpg" alt="Staffing Solution">
                     </div>
                     <div class="project-one__content">
-                        <span class="project-one__tagline">Resources</span>
+                        <span class="project-one__tagline">Sourcing to</span>
                         <h3 class="project-one__title"><a href="project-details.html">Canada</a></h3>
                     </div>
                 </div>
@@ -81,7 +81,7 @@
                         <img src="assets/images/project/project-1-5.jpg" alt="Staffing Solution">
                     </div>
                     <div class="project-one__content">
-                        <span class="project-one__tagline">Resources</span>
+                        <span class="project-one__tagline">Sourcing to</span>
                         <h3 class="project-one__title"><a href="project-details.html">Australia</a></h3>
                     </div>
                 </div>
@@ -92,7 +92,7 @@
                         <img src="assets/images/project/project-1-6.jpg" alt="Staffing Solution">
                     </div>
                     <div class="project-one__content">
-                        <span class="project-one__tagline">Resources</span>
+                        <span class="project-one__tagline">Sourcing to</span>
                         <h3 class="project-one__title"><a href="project-details.html">East Asia</a></h3>
                     </div>
                 </div>
