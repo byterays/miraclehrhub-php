@@ -38,7 +38,7 @@
                             </div><!-- /.team-card__image -->
                             <div class="team-card__content">
                                 <h3 class="team-card__title">
-                                    <a href="team-details.html">H.E. Dr. Bu Abdullah</a>
+                                    <a href="#">H.E. Dr. Bu Abdullah</a>
                                 </h3><!-- /.team-card__title -->
                                 <p class="team-card__designation">Chairman</p><!-- /.team-card__designation -->
                             </div><!-- /.team-card__content -->
@@ -75,7 +75,7 @@
                             </div><!-- /.team-card__image -->
                             <div class="team-card__content">
                                 <h3 class="team-card__title">
-                                    <a href="team-details.html">Vijay Karki</a>
+                                    <a href="#">Vijay Karki</a>
                                 </h3><!-- /.team-card__title -->
                                 <p class="team-card__designation">Director</p><!-- /.team-card__designation -->
                             </div><!-- /.team-card__content -->
@@ -112,7 +112,7 @@
                             </div><!-- /.team-card__image -->
                             <div class="team-card__content">
                                 <h3 class="team-card__title">
-                                    <a href="team-details.html">Prem Sherpa</a>
+                                    <a href="#">Prem Sherpa</a>
                                 </h3><!-- /.team-card__title -->
                                 <p class="team-card__designation">HR Manager</p><!-- /.team-card__designation -->
                             </div><!-- /.team-card__content -->
@@ -149,7 +149,7 @@
                             </div><!-- /.team-card__image -->
                             <div class="team-card__content">
                                 <h3 class="team-card__title">
-                                    <a href="team-details.html">Netra Poudel</a>
+                                    <a href="#">Netra Poudel</a>
                                 </h3><!-- /.team-card__title -->
                                 <p class="team-card__designation">Administration</p><!-- /.team-card__designation -->
                             </div><!-- /.team-card__content -->

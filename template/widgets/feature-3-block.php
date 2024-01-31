@@ -24,12 +24,12 @@
                     </ul>
                     <div class="row">
                         <div class="col-md-7">
-                            <a class="about-three__call" href="tel:92003680900">
+                            <a class="about-three__call" href="tel:+(971) 521984592">
                                 <span class="about-three__call__icon"><i class="icon-calling"></i></span>
                                 <span class="about-three__call__text">Call to Questions</span>
                                 <span class="about-three__call__number">+(971) 521 984 592</span>
                             </a>
-                            <a href="about" class="hiredots-btn hiredots-btn--base"><span>Discover more</span></a>
+                            <a href="#" class="hiredots-btn hiredots-btn--base"><span>Discover more</span></a>
                         </div>
                         <div class="col-md-5">
                             <div class="about-three__info-box">

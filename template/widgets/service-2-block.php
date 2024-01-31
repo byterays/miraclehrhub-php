@@ -17,12 +17,12 @@
                             <i class="icon-consulting"></i>
                         </div><!-- /.service-two-card__icon -->
                         <h3 class="service-two-card__title">
-                            <a href="service-d-consulting">HR Consultancy in UAE</a>
+                            <a href="#">HR Consultancy in UAE</a>
                         </h3><!-- /.service-two-card__title -->
                         <p class="service-two-card__text">Strategic HR solutions for organizations in the UAE</p>
                         <!-- /.service-two-card__text -->
                     </div><!-- /.service-two-card__content -->
-                    <a href="service-d-consulting" class="service-two-card__link">
+                    <a href="#" class="service-two-card__link">
                         Read More
                         <i class="icon-right-arrow"></i>
                     </a><!-- /.service-card__link -->
@@ -38,12 +38,12 @@
                             <i class="icon-controller"></i>
                         </div><!-- /.service-two-card__icon -->
                         <h3 class="service-two-card__title">
-                            <a href="service-d-resources">Overseas Recruitment Services</a>
+                            <a href="#">Overseas Recruitment Services</a>
                         </h3><!-- /.service-two-card__title -->
                         <p class="service-two-card__text">Global talent acquisition tailored to your organizational needs</p>
                         <!-- /.service-two-card__text -->
                     </div><!-- /.service-two-card__content -->
-                    <a href="service-d-resources" class="service-two-card__link">
+                    <a href="#" class="service-two-card__link">
                         Read More
                         <i class="icon-right-arrow"></i>
                     </a><!-- /.service-card__link -->
@@ -59,12 +59,12 @@
                             <i class="icon-policy"></i>
                         </div><!-- /.service-two-card__icon -->
                         <h3 class="service-two-card__title">
-                            <a href="service-d-hydro-solution">Manpower Supply to Different Countries</a>
+                            <a href="#">Manpower Supply to Different Countries</a>
                         </h3><!-- /.service-two-card__title -->
                         <p class="service-two-card__text">Supplying skilled workforce worldwide, meeting diverse industry requirements</p>
                         <!-- /.service-two-card__text -->
                     </div><!-- /.service-two-card__content -->
-                    <a href="service-d-hydro-solution" class="service-two-card__link">
+                    <a href="#" class="service-two-card__link">
                         Read More
                         <i class="icon-right-arrow"></i>
                     </a><!-- /.service-card__link -->
@@ -80,12 +80,12 @@
                             <i class="icon-job"></i>
                         </div><!-- /.service-two-card__icon -->
                         <h3 class="service-two-card__title">
-                            <a href="service-d-program">Staffing Solutions</a>
+                            <a href="#">Staffing Solutions</a>
                         </h3><!-- /.service-two-card__title -->
                         <p class="service-two-card__text">Tailored staffing services for seamless workforce management</p>
                         <!-- /.service-two-card__text -->
                     </div><!-- /.service-two-card__content -->
-                    <a href="service-d-program" class="service-two-card__link">
+                    <a href="#" class="service-two-card__link">
                         Read More
                         <i class="icon-right-arrow"></i>
                     </a><!-- /.service-card__link -->
