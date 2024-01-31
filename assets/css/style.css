@@ -1065,7 +1065,7 @@ h6 {
 
 .team-one {
   position: relative;
-  padding: 120px 0;
+  padding: 0;
 }
 @media (max-width: 991px) {
   .team-one {
@@ -1083,7 +1083,7 @@ h6 {
   }
 }
 .team-one--home {
-  padding-bottom: 178px;
+  padding-bottom: 80px;
 }
 @media (max-width: 991px) {
   .team-one--home {
@@ -4838,7 +4838,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .testimonials-three {
   position: relative;
   overflow: hidden;
-  padding: 120px 0;
+  padding: 80px 0 0;
 }
 @media (max-width: 767px) {
   .testimonials-three {
