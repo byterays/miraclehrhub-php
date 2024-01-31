@@ -33,9 +33,10 @@
                                 <h2 class="footer-widget__title">Explore</h2><!-- /.footer-widget__title -->
                                 <ul class="list-unstyled footer-widget__links">
                                     <li><a href="about">About Company</a></li>
+                                    <li><a href="services">Services</a></li>
                                     <li><a href="team">Meet the Team</a></li>
                                     <li><a href="blog">News & Media</a></li>
-                                    <li><a href="project">Our Projects</a></li>
+                                    <li><a href="services">Our Sectors</a></li>
                                     <li><a href="contact">Contact</a></li>
                                 </ul><!-- /.list-unstyled footer-widget__links -->
                             </div><!-- /.footer-widget -->
@@ -45,21 +46,19 @@
                                 <h2 class="footer-widget__title">Links</h2><!-- /.footer-widget__title -->
                                 <ul class="list-unstyled footer-widget__links">
                                     <li><a href="about">Apply Now</a></li>
-                                    <li><a href="contact">Contract to Hire</a></li>
-                                    <li><a href="team">Direct Hire</a></li>
-                                    <li><a href="history">Executive Search</a></li>
-                                    <li><a href="about">Our Solutions</a></li>
+                                    <li><a href="contact">Contract to Hire</a></li>                                   
+                                    <li><a href="services">Our Solutions</a></li>
                                 </ul><!-- /.list-unstyled footer-widget__links -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-md-6 -->
                         <div class="col-md-6 col-xl-3">
                             <div class="footer-widget footer-widget--time">
                                 <h2 class="footer-widget__title">Contact</h2><!-- /.footer-widget__title -->
-                                <p class="footer-widget__text">66 Road Broklyn Street, 600 <br> New York, USA</p>
+                                <p class="footer-widget__text">Bu Abdullah Investment Group <br> Office No.209, Al Owais Building</p>
                                 <!-- /.footer-widget__text -->
                                 <ul class="list-unstyled footer-widget__info">
-                                    <li><i class="fas fa-envelope"></i> <a href="mailto:needhelp@company.com">needhelp@company.com</a></li>
-                                    <li><i class="fas fa-phone-square"></i> <a href="tel:+92(8800)-6930">+ 92 ( 8800 ) - 6930</a></li>
+                                    <li><i class="fas fa-envelope"></i> <a href="mailto:info@miraclehrhub.com">info@miraclehrhub.com</a></li>
+                                    <li><i class="fas fa-phone-square"></i> <a href="tel:+(971)521984592">+(971) 521 984 592</a></li>
                                 </ul><!-- /.list-unstyled -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-md-6 -->
