@@ -10,7 +10,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="/assets/images/favicons/site.html">
-    <meta name="description" content="Hiredots is a modern HTML Template for Beauty, Spa Centers, Hair, Nail, Spa Salons & Cosmetic shops. The template perfectly fits Beauty Spa, Salon, and Wellness Treatments websites and businesses.">
+    <meta name="description" content="Miracle HR Hub, Overseas human resource consulatancy">
 
     <!-- fonts -->
     <link rel="preconnect" href="//fonts.googleapis.com/">
@@ -30,12 +30,12 @@
     <link rel="stylesheet" href="/assets/vendors/nouislider/nouislider.min.css">
     <link rel="stylesheet" href="/assets/vendors/nouislider/nouislider.pips.css">
     <link rel="stylesheet" href="/assets/vendors/slick/slick.css">
-    <link rel="stylesheet" href="/assets/vendors/hiredots-icons/style.css">
+    <link rel="stylesheet" href="/assets/vendors/miracle-icons/style.css">
     <link rel="stylesheet" href="/assets/vendors/owl-carousel/css/owl.carousel.min.css">
     <link rel="stylesheet" href="/assets/vendors/owl-carousel/css/owl.theme.default.min.css">
 
     <!-- template styles -->
-    <link rel="stylesheet" href="/assets/css/hiredots.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 
 <body class="custom-cursor">
@@ -61,9 +61,9 @@
                 <div class="main-header__link">
                     <div class="main-header__call">
                         <i class="icon-telephone"></i>
-                        <a href="tel:+9288006930">+ 92 (8800)-6930</a>
+                        <a href="tel:+9288006930">+(971) 521984592</a>
                     </div>
-                    <a class="main-header__btn" href="contact.html">Book Appointment</a>
+                    <a class="main-header__btn" href="contact">Book Appointment</a>
                 </div>
                 <div class="mobile-nav__btn mobile-nav__toggler">
                     <span></span>

@@ -200,7 +200,7 @@
     <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
     <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
     <!-- template js -->
-    <script src="assets/js/hiredots.js"></script>
+    <script src="assets/js/miracle.js"></script>
 </body>
 
 </html>
