@@ -1,118 +1,53 @@
 <?php $contents = ob_start() ?>
 <section class="page-header">
-            <div class="page-header__bg"></div>
-            <div class="page-header__shape"><img src="assets/images/shapes/page-header-shape.png" alt="hiredots"></div>
-            <!-- /.page-header__bg -->
-            <div class="container">
-                <h2 class="page-header__title">About Miracle HR Hub</h2>
-                <ul class="hiredots-breadcrumb list-unstyled">
-                    <li><a href="index.html">Home</a></li>
-                    <li><span>About Us</span></li>
-                </ul><!-- /.thm-breadcrumb list-unstyled -->
-            </div><!-- /.container -->
-        </section><!-- /.page-header -->
+    <div class="page-header__bg"></div>
+    <div class="page-header__shape"><img src="assets/images/shapes/page-header-shape.png" alt="hiredots"></div>
+    <!-- /.page-header__bg -->
+    <div class="container">
+        <h2 class="page-header__title">About Miracle HR Hub</h2>
+        <ul class="hiredots-breadcrumb list-unstyled">
+            <li><a href="index.html">Home</a></li>
+            <li><span>About Us</span></li>
+        </ul><!-- /.thm-breadcrumb list-unstyled -->
+    </div><!-- /.container -->
+</section><!-- /.page-header -->
 
-        <section class="service-details">
-            <div class="container">
-                <div class="row gutter-y-30">
-                    <div class="col-md-12 col-lg-4">
-                        <div class="service-sidebar">
-                            <div class="service-sidebar__single">
-                                <ul class="list-unstyled service-sidebar__nav">
-                                    <li><a href="service-d-consulting.html">Message From Chairman</a></li>
-                                    <li><a href="service-d-resources.html">Mission/Vision</a></li>
-                                    <li><a href="service-d-hydro-solution.html">Our Team</a></li>
-                                    <li><a href="service-d-program.html">Why Us</a></li>
-                                    <li> <a href="service-d-training.html">Company Profile</a></li>
-                                </ul><!-- /.list-unstyled service-sidebar__nav -->
-                            </div><!-- /.service-sidebar__single -->
-                            <div class="service-sidebar__single ">
-                                <div class="service-sidebar__contact background-base" style="background-image: url(assets/images/resources/service-sidebar-d-1.png);">
-                                    <h3 class="service-sidebar__contact__title">Recruitment
-                                        Solutions for all
-                                        Businesses</h3><!-- /.service-sidebar__contact__title -->
-                                    <a class="hiredots-btn" href="contact.html"> Contact</a>
-                                </div><!-- /.service-sidebar__contact -->
-                            </div>
-                            <div class="service-sidebar__single ">
-                                <div class="service-sidebar__download background-primary">
-                                    <div class="service-sidebar__download__icon">
-                                        <i class="icon-pdf-file"></i>
-                                    </div><!-- /.service-sidebar__contact__icon -->
-                                    <div class="serice-sidebar__download">
-                                        <h3 class="service-sidebar__download__title"><a href="#">Project Agreement Form</a></h3><!-- /.service-sidebar__contact__title -->
-                                        <p class="service-sidebar__download__number">3.9KB</p><!-- /.service-sidebar__contact__number -->
-                                    </div>
-                                </div><!-- /.service-sidebar__contact -->
-                            </div>
-                        </div><!-- /.sidebar -->
-                    </div><!-- /.col-md-12 col-lg-4 -->
-                    <div class="col-md-12 col-lg-8">
-                        <div class="service-details__content">
-                            <div class="service-details__thumbnail">
-                                <img src="assets/images/resources/service-d-1.png" alt="HR Consulting">
-                            </div><!-- /.service-details__thumbnail -->
-                            <h3 class="service-details__title">HR Consulting</h3><!-- /.service-details__title -->
-                            <p class="service-details__text">There are many variations of passages of lorem ipsum is simply free text available
-                                in the market, but the majority time you put aside to be in our office. Lorem ipsum dolor sit amet,
-                                consectetLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                                dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
-                            <!-- /.service-details__text -->
-                            <h3 class="service-details__lighlight">Helping Clients to Solve Recruitments Problems</h3>
-                            <!-- /.service-details__title -->
-                            <p class="service-details__text">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit
-                                laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate
-                                velit esse quam nihil molestiae consequatur.</p><!-- /.service-details__text -->
-
-                            <h3 class="service-details__title">Why Choose?</h3><!-- /.service-details__title -->
-                            <div class="list-unstyled service-details__process">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="service-details__process__top item-1">
-                                            <h4 class="service-details__process__title">Short Term <br>
-                                                Hiring</h4><!-- /.service-details__process__title -->
-                                            <span class="service-details__process__icon"><i class="icon-individual"></i></span>
-                                        </div><!-- /.service-details__process__top -->
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="service-details__process__top item-2">
-                                            <h4 class="service-details__process__title">Last Minute <br>
-                                                Hiring</h4><!-- /.service-details__process__title -->
-                                            <span class="service-details__process__icon"><i class="icon-time-check"></i></span>
-                                        </div><!-- /.service-details__process__top -->
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="service-details__process__top item-3">
-                                            <h4 class="service-details__process__title">Administration <br>
-                                                Rules</h4><!-- /.service-details__process__title -->
-                                            <span class="service-details__process__icon"><i class="icon-report-card"></i></span>
-                                        </div><!-- /.service-details__process__top -->
-                                    </div>
-                                </div>
-                            </div><!-- /.list-unstyled service-details__process -->
-                            <div class="row gutter-y-30 align-items-center">
-                                <div class="col-md-6">
-                                    <div class="service-details__image__circle">
-                                        <img src="assets/images/resources/service-details-p-1.png" alt="">
-                                    </div><!-- /.service-details__image__circle -->
-                                </div><!-- /.col-md-6 -->
-                                <div class="col-md-6">
-                                    <h4 class="service-details_list-title">Our Benefits</h4><!-- /.service-details__sub-title -->
-                                    <p class="service-details_list-text">Get the Best Digital Marketing from the Pitoon Agency of Exellence</p>
-                                    <ul class="list-unstyled service-details__list">
-                                        <li><i class="fas fa-check-circle"></i> Cost Effective </li>
-                                        <li><i class="fas fa-check-circle"></i> Equal Opportunities</li>
-                                        <li><i class="fas fa-check-circle"></i> Creates High Brand Awareness</li>
-                                        <li><i class="fas fa-check-circle"></i> Higher ROI</li>
-                                    </ul><!-- /.list-unstyled service-details__post -->
-                                </div><!-- /.col-md-6 -->
-                            </div><!-- /.row -->
-                        </div><!-- /.service-details__content -->
-                    </div><!-- /.col-md-12 col-lg-8 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.service-details -->
-        <?php $contents = ob_get_clean() ?>
+<section class="service-details">
+    <div class="container">
+        <div class="row gutter-y-30">
+            <div class="col-md-12 col-lg-4">
+                <div class="service-sidebar">
+                    <div class="service-sidebar__single">
+                        <ul class="list-unstyled service-sidebar__nav">
+                            <li><a href="about-us">About Miracle HR Hub</a></li>
+                            <li><a href="service-d-consulting.html">Message From Chairman</a></li>
+                            <li><a href="service-d-resources.html">Mission/Vision</a></li>
+                            <li><a href="service-d-hydro-solution.html">Our Team</a></li>
+                            <li><a href="service-d-program.html">Why Us</a></li>
+                            <li> <a href="service-d-training.html">Company Profile</a></li>
+                        </ul><!-- /.list-unstyled service-sidebar__nav -->
+                    </div><!-- /.service-sidebar__single -->
+                    
+                </div><!-- /.sidebar -->
+            </div><!-- /.col-md-12 col-lg-4 -->
+            <div class="col-md-12 col-lg-8">
+                <div class="service-details__content">
+                <h3 class="service-details__title">Miracle HR Hub</h3><!-- /.service-details__title -->
+                    <div class="service-details__thumbnail">
+                        <img src="assets/images/resources/service-d-1.png" alt="Miracle HR Hub">
+                    </div><!-- /.service-details__thumbnail -->
+                    
+                    <p class="service-details__text">Welcome to Bua & Miracle HR Consultancy L.L.C., a member of the Bu Abdullah Group of Companies and an emerging HR consulting firm based in Dubai, UAE. We specialize in providing exceptional Recruitment and HR Services to startups, established companies, and diverse industries across the Middle East, East Asia, Europe, Canada, Australia, New Zealand, and beyond.</p>                    
+                    <p class="service-details__text">Under the patronage of H.E. Dr. Bu Abdullah, our experienced team of HR professionals delivers outstanding services, ensuring precision and excellence in meeting our clients' business interests. As part of the prestigious Bu Abdullah Group of Companies, we have access to robust support and extensive resources, allowing us to provide tailored solutions that cater to diverse business requirements.</p><!-- /.service-details__text -->
+                    <p class="service-details__text">Operating with a valid license granted by the UAE's Ministry of Administrative Development, Labor, and Social Affairs, we prioritize worker welfare and adhere to the standards set by the Supreme Committee for Delivery and Legacy (SC), guaranteeing a safe and secure work environment for our candidates.</p>
+                    <p class="service-details__text">Our primary goal is to bridge talents with opportunities by sourcing the best talent and delivering exceptional results for our clients. With unwavering commitment, we provide reliable, efficient, and professional recruitment and manpower solutions.</p>
+                    <p class="service-details__text">Additionally, we have established a partnership with Miracle Manpower Pvt. Ltd. in Kathmandu, Nepal. This collaboration enables us to supply diverse manpower from Nepal, expanding our reach and providing access to a talented pool of candidates.</p>
+                    <p class="service-details__text">Experience the Bua & Miracle HR Consultancy difference. Let us be your trusted partner in talent acquisition and human resource management. Together, we will navigate the ever-evolving business landscape, driving your organization towards new dimensions of growth and prosperity. Contact us today and embark on a journey of mutual success.</p>
+                </div><!-- /.service-details__content -->
+            </div><!-- /.col-md-12 col-lg-8 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section><!-- /.service-details -->
+<?php $contents = ob_get_clean() ?>
 
 <?php include "template/layout.php"; ?>
