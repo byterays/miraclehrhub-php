@@ -112,7 +112,7 @@
                             </div><!-- /.team-card__image -->
                             <div class="team-card__content">
                                 <h3 class="team-card__title">
-                                    <a href="#">Prem Sherpa</a>
+                                    <a href="#">Sujan Basnet</a>
                                 </h3><!-- /.team-card__title -->
                                 <p class="team-card__designation">HR Manager</p><!-- /.team-card__designation -->
                             </div><!-- /.team-card__content -->
@@ -151,7 +151,7 @@
                                 <h3 class="team-card__title">
                                     <a href="#">Netra Poudel</a>
                                 </h3><!-- /.team-card__title -->
-                                <p class="team-card__designation">Administration</p><!-- /.team-card__designation -->
+                                <p class="team-card__designation">Admin</p><!-- /.team-card__designation -->
                             </div><!-- /.team-card__content -->
                         </div><!-- /.team-card -->
                     </div><!-- /.item -->
