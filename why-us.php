@@ -7,7 +7,7 @@
         <h2 class="page-header__title">Why Bua & Miracle HR Consultancy</h2>
         <ul class="hiredots-breadcrumb list-unstyled">
             <li><a href="index.html">Home</a></li>
-            <li><span>Mission-Vision</span></li>
+            <li><span>Why Us</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
     </div><!-- /.container -->
 </section><!-- /.page-header -->
