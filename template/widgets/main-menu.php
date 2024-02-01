@@ -23,7 +23,7 @@
                 <li><a href="miracle-hrhub-staffing-solution">Staffing Solutions</a></li>                 
             </ul>
         </li>
-        <li><a href="#">Industries</a></li>
+        <li><a href="industries">Industries</a></li>
         <!-- <li><a href="#">Jobs</a></li>
         <li><a href="#">Testimonials</a></li> -->
         <li><a href="contact">Contact</a></li>
