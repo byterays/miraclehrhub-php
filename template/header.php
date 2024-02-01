@@ -61,7 +61,7 @@
                 <div class="main-header__link">
                     <div class="main-header__call">
                         <i class="icon-telephone"></i>
-                        <a href="tel:+9288006930">+(971) 521984592</a>
+                        <a href="tel:+(971)521984592">+(971) 521984592</a>
                     </div>
                     <a class="main-header__btn" href="contact">Book Appointment</a>
                 </div>
