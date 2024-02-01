@@ -4,7 +4,7 @@
     <div class="page-header__shape"><img src="assets/images/shapes/page-header-shape.png" alt="hiredots"></div>
     <!-- /.page-header__bg -->
     <div class="container">
-        <h2 class="page-header__title">About Miracle HR Hub</h2>
+        <h2 class="page-header__title">About Bua & Miracle HR Consultancy</h2>
         <ul class="hiredots-breadcrumb list-unstyled">
             <li><a href="index.html">Home</a></li>
             <li><span>About Us</span></li>
