@@ -23,8 +23,8 @@
             </div><!-- /.col-md-12 col-lg-4 -->
             <div class="col-md-12 col-lg-8">
                 <div class="service-details__content">
-                    <object data="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" type="application/pdf" width="100%" height="500px">
-                        <p>Unable to display PDF file. <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">Download</a> instead.</p>
+                    <object data="/uploads/Bua_Miracle_Profile.pdf" type="application/pdf" width="100%" height="1130px">
+                        <p>Unable to display PDF file. <a href="/uploads/Bua_Miracle_Profile.pdf">Download</a> instead.</p>
                     </object>
                 </div><!-- /.service-details__content -->
             </div><!-- /.col-md-12 col-lg-8 -->
