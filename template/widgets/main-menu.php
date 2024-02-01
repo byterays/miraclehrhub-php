@@ -17,15 +17,15 @@
         <li class="dropdown">
             <a href="#">Servcies</a>
             <ul>
-                <li><a href="#">HR Consultancy in UAE</a></li>
-                <li><a href="#">Overseas Recruitment Services</a></li>
-                <li><a href="#">Global Reach</a></li> 
-                <li><a href="#">Staffing Solutions</a></li>                 
+                <li><a href="hr-consultancy-service-uae">HR Consultancy in UAE</a></li>
+                <li><a href="overseas-recruitment-service">Overseas Recruitment Services</a></li>
+                <li><a href="miracle-hrhub-global-reach">Global Reach</a></li> 
+                <li><a href="miracle-hrhub-staffing-solution">Staffing Solutions</a></li>                 
             </ul>
         </li>
         <li><a href="#">Industries</a></li>
-        <li><a href="#">Jobs</a></li>
-        <li><a href="#">Testimonials</a></li>
+        <!-- <li><a href="#">Jobs</a></li>
+        <li><a href="#">Testimonials</a></li> -->
         <li><a href="contact">Contact</a></li>
     </ul>
 </nav><!-- /.main-header__nav -->
