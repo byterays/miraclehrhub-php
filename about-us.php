@@ -24,7 +24,7 @@
                 <div class="service-details__content">
                 <h3 class="service-details__title">About Miracle HR Hub</h3><!-- /.service-details__title -->
                     <div class="service-details__thumbnail">
-                        <img src="assets/images/resources/service-d-1.png" alt="Miracle HR Hub">
+                        <img src="assets/images/company/about.jpg" alt="Miracle HR Hub">
                     </div><!-- /.service-details__thumbnail -->
                     
                     <p class="service-details__text">Welcome to Bua & Miracle HR Consultancy L.L.C., a member of the Bu Abdullah Group of Companies and an emerging HR consulting firm based in Dubai, UAE. We specialize in providing exceptional Recruitment and HR Services to startups, established companies, and diverse industries across the Middle East, East Asia, Europe, Canada, Australia, New Zealand, and beyond.</p>                    

@@ -24,7 +24,7 @@
                 <div class="service-details__content">
                 <h3 class="service-details__title">Message from Chairman H.E. Dr. Bu Abdullah</h3><!-- /.service-details__title -->
                     <div class="service-details__thumbnail">
-                        <img src="assets/images/resources/service-d-1.png" alt="Miracle HR Hub">
+                        <img src="assets/images/company/dr-bu-770.jpg" alt="Miracle HR Hub">
                     </div><!-- /.service-details__thumbnail -->
                     <p class="service-details__text">Dear Valued Clients, </p>
                     <p class="service-details__text">It is my utmost pleasure to extend a warm welcome to you on behalf of Bua & Miracle HR Consultancy. As the Chairman of our esteemed organization, I am committed to providing exceptional HR solutions and fostering mutually beneficial partnerships.</p>                    

@@ -24,7 +24,7 @@
                 <div class="service-details__content">
                 <h3 class="service-details__title">Our Mission and Vision </h3><!-- /.service-details__title -->
                     <div class="service-details__thumbnail">
-                        <img src="assets/images/resources/service-d-1.png" alt="Miracle HR Hub">
+                        <img src="assets/images/company/mission-vision.jpg" alt="Miracle HR Hub">
                     </div><!-- /.service-details__thumbnail -->
                     <h3 class="service-details__lighlight">Mission</h3>
                     <p class="service-details__text">Our mission at Bua & Miracle HR Consultancy is to bridge talents with opportunities, connecting the right individuals with organizations that align with their skills and aspirations. We are committed to delivering exceptional Recruitment and HR Services, enabling businesses to thrive and individuals to achieve their full potential.</p> 

@@ -24,7 +24,7 @@
                 <div class="service-details__content">
                     <h3 class="service-details__title">Why Bua & Miracle HR Consultancy?</h3><!-- /.service-details__title -->
                     <div class="service-details__thumbnail">
-                        <img src="assets/images/resources/service-d-1.png" alt="Miracle HR Hub">
+                        <img src="assets/images/company/why-bua.jpg" alt="Miracle HR Hub">
                     </div><!-- /.service-details__thumbnail -->
                     <h3 class="service-details__lighlight">Choosing Bua & Miracle HR Consultancy for your recruitment needs provides several benefits for your organizational success:</h3>
 
