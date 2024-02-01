@@ -17,22 +17,12 @@
         <div class="row gutter-y-30">
             <div class="col-md-12 col-lg-4">
                 <div class="service-sidebar">
-                    <div class="service-sidebar__single">
-                        <ul class="list-unstyled service-sidebar__nav">
-                            <li><a href="about-us">About Miracle HR Hub</a></li>
-                            <li><a href="service-d-consulting.html">Message From Chairman</a></li>
-                            <li><a href="service-d-resources.html">Mission/Vision</a></li>
-                            <li><a href="service-d-hydro-solution.html">Our Team</a></li>
-                            <li><a href="service-d-program.html">Why Us</a></li>
-                            <li> <a href="service-d-training.html">Company Profile</a></li>
-                        </ul><!-- /.list-unstyled service-sidebar__nav -->
-                    </div><!-- /.service-sidebar__single -->
-                    
+                    <?php include "template/widgets/about-us-sidebar.php" ?>                    
                 </div><!-- /.sidebar -->
             </div><!-- /.col-md-12 col-lg-4 -->
             <div class="col-md-12 col-lg-8">
                 <div class="service-details__content">
-                <h3 class="service-details__title">Miracle HR Hub</h3><!-- /.service-details__title -->
+                <h3 class="service-details__title">About Miracle HR Hub</h3><!-- /.service-details__title -->
                     <div class="service-details__thumbnail">
                         <img src="assets/images/resources/service-d-1.png" alt="Miracle HR Hub">
                     </div><!-- /.service-details__thumbnail -->
