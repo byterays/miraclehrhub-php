@@ -1143,7 +1143,7 @@ h6 {
   right: -25px;
   display: inline-block;
   border-radius: 50% 50% 0 0;
-  background-color: var(--hiredots-white, #fff);
+  /* background-color: var(--hiredots-white, #fff); */
 }
 .team-card__hover {
   position: absolute;
