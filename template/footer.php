@@ -11,9 +11,9 @@
                             <img src="assets/images/logo-light.png" width="250" alt="Hiredots HTML Template">
                         </a>
                         <p class="footer-widget__text">
-                            HR CONSULTANCY, RECRUITING AND PLACEMENT<br />
-                            YOUR PARTNER FOR OVERSEAS RECRUITMENT<br />
-                            Bridging Talent to Opportunity: Empowering Your Workforce Journey
+                            HR consultancy, recruiting and placement .<br />
+                            Your partner for overseas recruitment.<br />
+                            Bridging talent to opportunity: Empowering your workforce journey.
                         </p>
                         <div class="footer-widget__author">
                             <div class="footer-widget__author__img">

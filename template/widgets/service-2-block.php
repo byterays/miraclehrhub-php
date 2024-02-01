@@ -19,7 +19,7 @@
                         <h3 class="service-two-card__title">
                             <a href="#">HR Consultancy in UAE</a>
                         </h3><!-- /.service-two-card__title -->
-                        <p class="service-two-card__text">Strategic HR solutions for organizations in the UAE</p>
+                        <p class="service-two-card__text">Elevate organizational success in the UAE with strategic HR solutions tailored for growth</p>
                         <!-- /.service-two-card__text -->
                     </div><!-- /.service-two-card__content -->
                     <a href="#" class="service-two-card__link">
@@ -82,7 +82,7 @@
                         <h3 class="service-two-card__title">
                             <a href="#">Staffing Solutions</a>
                         </h3><!-- /.service-two-card__title -->
-                        <p class="service-two-card__text">Tailored staffing services for seamless workforce management</p>
+                        <p class="service-two-card__text">Customized staffing solutions optimizing workforce for organizational efficiency and success</p>
                         <!-- /.service-two-card__text -->
                     </div><!-- /.service-two-card__content -->
                     <a href="#" class="service-two-card__link">
