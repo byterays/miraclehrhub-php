@@ -19,9 +19,7 @@
             <ul>
                 <li><a href="#">HR Consultancy in UAE</a></li>
                 <li><a href="#">Overseas Recruitment Services</a></li>
-                <li><a href="#">Global Reach</a></li>
-                <li><a href="#">Why Us</a></li>
-                <li><a href="#">Company Profile</a></li>
+                <li><a href="#">Global Reach</a></li>                
             </ul>
         </li>
         <li><a href="#">Industries</a></li>
