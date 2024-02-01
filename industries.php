@@ -4,10 +4,10 @@
     <div class="page-header__shape"><img src="assets/images/shapes/page-header-shape.png" alt="hiredots"></div>
     <!-- /.page-header__bg -->
     <div class="container">
-        <h2 class="page-header__title">Our Team</h2>
+        <h2 class="page-header__title">Industries</h2>
         <ul class="hiredots-breadcrumb list-unstyled">
             <li><a href="index.html">Home</a></li>
-            <li><span>Our Team</span></li>
+            <li><span>Industries</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
     </div><!-- /.container -->
 </section><!-- /.page-header -->
