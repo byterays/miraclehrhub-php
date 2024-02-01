@@ -7,7 +7,7 @@
         <h2 class="page-header__title">About Miracle HR Hub</h2>
         <ul class="hiredots-breadcrumb list-unstyled">
             <li><a href="index.html">Home</a></li>
-            <li><span>About Us</span></li>
+            <li><span>Message from Chairman</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
     </div><!-- /.container -->
 </section><!-- /.page-header -->
