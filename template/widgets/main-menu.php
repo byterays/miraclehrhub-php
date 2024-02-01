@@ -4,13 +4,14 @@
             <a href="/">Home</a>
         </li>
         <li class="dropdown">
-            <a href="#">Company</a>
+            <a href="javascript:">Company</a>
             <ul>
-                <li><a href="#">Message from Chairman</a></li>
-                <li><a href="#">Mission Vision Goal</a></li>
-                <li><a href="#">Our Team</a></li>
-                <li><a href="#">Why Us</a></li>
-                <li><a href="#">Company Profile</a></li>
+                <li><a href="about-us">About Us</a></li>
+                <li><a href="message-from-chairman">Message from Chairman</a></li>
+                <li><a href="mission-vision">Mission Vision Goal</a></li>
+                <li><a href="our-team">Our Team</a></li>
+                <li><a href="why-us">Why Us</a></li>
+                <li><a href="company-profile">Company Profile</a></li>
             </ul>
         </li>
         <li class="dropdown">
