@@ -22,7 +22,7 @@
             </div><!-- /.col-md-12 col-lg-4 -->
             <div class="col-md-12 col-lg-8">
                 <div class="service-details__content">
-                    <h3 class="service-details__title">Why Miracle HR Hub?</h3><!-- /.service-details__title -->
+                    <h3 class="service-details__title">Why Bua & Miracle HR Consultancy?</h3><!-- /.service-details__title -->
                     <div class="service-details__thumbnail">
                         <img src="assets/images/resources/service-d-1.png" alt="Miracle HR Hub">
                     </div><!-- /.service-details__thumbnail -->
