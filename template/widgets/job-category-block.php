@@ -3,7 +3,7 @@
     <div class="container">
         <div class="sec-title text-center">
 
-            <h6 class="sec-title__tagline">Job Categories</h6><!-- /.sec-title__tagline -->
+            <h6 class="sec-title__tagline">Industries</h6><!-- /.sec-title__tagline -->
 
             <h3 class="sec-title__title">Explore a Wide Range of Jobs Across Various Industries</h3><!-- /.sec-title__title -->
         </div><!-- /.sec-title -->
