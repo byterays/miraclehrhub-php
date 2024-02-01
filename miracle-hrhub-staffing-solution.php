@@ -24,7 +24,7 @@
                 <div class="service-details__content">
                     <h3 class="service-details__title">Staffing Solution </h3><!-- /.service-details__title -->
                     <div class="service-details__thumbnail">
-                        <img src="assets/images/company/mission-vision.jpg" alt="Miracle HR Hub">
+                        <img src="assets/images/services/staffing-solutions.jpg" alt="Miracle HR Hub">
                     </div><!-- /.service-details__thumbnail -->
                     <p class="service-details__text">Bua & Miracle HR Consultancy stands as a beacon of excellence in providing comprehensive Staffing Solutions tailored to the unique needs of businesses operating in the vibrant landscape of the United Arab Emirates (UAE). With a deep understanding of the local market dynamics, labor laws, and cultural intricacies, we offer strategic guidance and support to organizations seeking to optimize their workforce.</p>
                     <p class="service-details__text">Our suite of services encompasses every aspect of staffing, from talent acquisition and recruitment to onboarding, training, and performance management. We collaborate closely with our clients to understand their specific requirements and business objectives, ensuring that we source and place candidates who not only possess the requisite skills and qualifications but also align with the organization's values and culture.</p>

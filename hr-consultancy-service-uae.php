@@ -24,7 +24,7 @@
                 <div class="service-details__content">
                     <h3 class="service-details__title">HR Consultancy in UAE</h3><!-- /.service-details__title -->
                     <div class="service-details__thumbnail">
-                        <img src="assets/images/company/mission-vision.jpg" alt="Miracle HR Hub">
+                        <img src="assets/images/services/hr-consultancy-in-uae.jpg" alt="Miracle HR Hub">
                     </div><!-- /.service-details__thumbnail -->
                    
                     <p class="service-details__text">Bua & Miracle HR Consultancy is your trusted partner for comprehensive HR Consultancy services tailored to meet the dynamic needs of businesses in the United Arab Emirates (UAE). With a deep understanding of the local market intricacies, regulatory frameworks, and cultural nuances, we offer strategic guidance and innovative solutions to help organizations optimize their human capital and achieve their business objectives.</p>

@@ -24,7 +24,7 @@
                 <div class="service-details__content">
                 <h3 class="service-details__title">Overseas Recruitment Services</h3><!-- /.service-details__title -->
                     <div class="service-details__thumbnail">
-                        <img src="assets/images/company/mission-vision.jpg" alt="Miracle HR Hub">
+                        <img src="assets/images/services/overseas-recruitment-services.jpg" alt="Miracle HR Hub">
                     </div><!-- /.service-details__thumbnail -->
                     <p class="service-details__text">Bua & Miracle HR Consultancy is your premier partner for Overseas Recruitment Services, offering tailored solutions to meet the global staffing needs of businesses across diverse industries. With our extensive network, industry expertise, and commitment to excellence, we specialize in connecting employers with top-tier talent from around the world.</p> 
                     <p class="service-details__text">Our Overseas Recruitment Services encompass every stage of the recruitment process, from candidate sourcing and screening to visa processing and deployment. We understand the complexities and challenges of international hiring and strive to simplify the process for our clients while ensuring compliance with local regulations and cultural sensitivities.</p> 

@@ -24,7 +24,7 @@
                 <div class="service-details__content">
                     <h3 class="service-details__title">Manpower Supply to Different Countries</h3><!-- /.service-details__title -->
                     <div class="service-details__thumbnail">
-                        <img src="assets/images/company/mission-vision.jpg" alt="Miracle HR Hub">
+                        <img src="assets/images/services/manpower-supply-to-different-countries.jpg" alt="Miracle HR Hub">
                     </div><!-- /.service-details__thumbnail -->
                     <p class="service-details__text">Bua & Miracle HR Consultancy specializes in providing comprehensive Manpower Supply services to different countries including Middle East, East Asia, Europe, Canada, Australia, New Zealand, Japan and beyond., catering to the diverse needs of businesses across various industries. With a strategic approach and a commitment to excellence, we facilitate the seamless recruitment, selection, and deployment of skilled professionals to meet the staffing requirements of our clients worldwide.</p>
                     <p class="service-details__text">Our dedicated team works closely with both employers and candidates to ensure a mutually beneficial partnership. We meticulously assess the qualifications, experience, and cultural fit of potential candidates to ensure they align with the specific demands of each role and organization.</p>
