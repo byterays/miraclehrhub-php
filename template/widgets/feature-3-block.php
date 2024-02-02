@@ -29,7 +29,7 @@
                                 <span class="about-three__call__text">Call to Questions</span>
                                 <span class="about-three__call__number">+(971) 521 984 592</span>
                             </a>
-                            <a href="#" class="hiredots-btn hiredots-btn--base"><span>Discover more</span></a>
+                            <a href="about-us" class="hiredots-btn hiredots-btn--base"><span>Discover more</span></a>
                         </div>
                         <div class="col-md-5">
                             <div class="about-three__info-box">

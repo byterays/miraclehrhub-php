@@ -17,12 +17,12 @@
                             <i class="icon-consulting"></i>
                         </div><!-- /.service-two-card__icon -->
                         <h3 class="service-two-card__title">
-                            <a href="#">HR Consultancy in UAE</a>
+                            <a href="hr-consultancy-service-uae">HR Consultancy in UAE</a>
                         </h3><!-- /.service-two-card__title -->
                         <p class="service-two-card__text">Elevate organizational success in the UAE with strategic HR solutions tailored for growth</p>
                         <!-- /.service-two-card__text -->
                     </div><!-- /.service-two-card__content -->
-                    <a href="#" class="service-two-card__link">
+                    <a href="hr-consultancy-service-uae" class="service-two-card__link">
                         Read More
                         <i class="icon-right-arrow"></i>
                     </a><!-- /.service-card__link -->
@@ -38,12 +38,12 @@
                             <i class="icon-controller"></i>
                         </div><!-- /.service-two-card__icon -->
                         <h3 class="service-two-card__title">
-                            <a href="#">Overseas Recruitment Services</a>
+                            <a href="overseas-recruitment-service">Overseas Recruitment Services</a>
                         </h3><!-- /.service-two-card__title -->
                         <p class="service-two-card__text">Global talent acquisition tailored to your organizational needs</p>
                         <!-- /.service-two-card__text -->
                     </div><!-- /.service-two-card__content -->
-                    <a href="#" class="service-two-card__link">
+                    <a href="overseas-recruitment-service" class="service-two-card__link">
                         Read More
                         <i class="icon-right-arrow"></i>
                     </a><!-- /.service-card__link -->
@@ -59,12 +59,12 @@
                             <i class="icon-policy"></i>
                         </div><!-- /.service-two-card__icon -->
                         <h3 class="service-two-card__title">
-                            <a href="#">Manpower Supply to Different Countries</a>
+                            <a href="miracle-hrhub-global-reach">Manpower Supply to Different Countries</a>
                         </h3><!-- /.service-two-card__title -->
                         <p class="service-two-card__text">Supplying skilled workforce worldwide, meeting diverse industry requirements</p>
                         <!-- /.service-two-card__text -->
                     </div><!-- /.service-two-card__content -->
-                    <a href="#" class="service-two-card__link">
+                    <a href="miracle-hrhub-global-reach" class="service-two-card__link">
                         Read More
                         <i class="icon-right-arrow"></i>
                     </a><!-- /.service-card__link -->
@@ -80,12 +80,12 @@
                             <i class="icon-job"></i>
                         </div><!-- /.service-two-card__icon -->
                         <h3 class="service-two-card__title">
-                            <a href="#">Staffing Solutions</a>
+                            <a href="miracle-hrhub-staffing-solution">Staffing Solutions</a>
                         </h3><!-- /.service-two-card__title -->
                         <p class="service-two-card__text">Customized staffing solutions optimizing workforce for organizational efficiency and success</p>
                         <!-- /.service-two-card__text -->
                     </div><!-- /.service-two-card__content -->
-                    <a href="#" class="service-two-card__link">
+                    <a href="miracle-hrhub-staffing-solution" class="service-two-card__link">
                         Read More
                         <i class="icon-right-arrow"></i>
                     </a><!-- /.service-card__link -->
