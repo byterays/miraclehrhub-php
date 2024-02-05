@@ -46,27 +46,13 @@
                             </div><!-- /.team-card__image -->
                             <div class="team-card__content">
                                 <h3 class="team-card__title">
-                                    <a href="#">Sujan Basnet</a>
+                                    <a href="#">Naresh Bohara</a>
                                 </h3><!-- /.team-card__title -->
                                 <p class="team-card__designation">HR Manager</p><!-- /.team-card__designation -->
                             </div><!-- /.team-card__content -->
                         </div><!-- /.team-card -->
                     </div><!-- /.item -->
-                    <div class="col-md-6 col-lg-3">
-                        <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='200ms'>
-                            <div class="team-card__image">
-                                <div class="team-card__image__bg"></div><!-- /.team-card__image__bg -->
-                                <img src="assets/images/team/team-1-4.jpg" alt="david cooper">
-                                
-                            </div><!-- /.team-card__image -->
-                            <div class="team-card__content">
-                                <h3 class="team-card__title">
-                                    <a href="#">Netra Poudel</a>
-                                </h3><!-- /.team-card__title -->
-                                <p class="team-card__designation">Admin</p><!-- /.team-card__designation -->
-                            </div><!-- /.team-card__content -->
-                        </div><!-- /.team-card -->
-                    </div><!-- /.item -->
+                    
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.team-one -->
