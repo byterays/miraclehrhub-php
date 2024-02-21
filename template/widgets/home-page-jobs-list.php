@@ -21,7 +21,7 @@
                         <div class="jobs-list__card my-1 p-2 ">
                             <div class="jobs-list__left">
                                 <div class="jobs-list__logo">
-                                    <img height="145" src="assets/images/jobs/<?= $data[2]?>" alt="">
+                                    <img width="150" src="assets/images/jobs/<?= $data[2]?>" alt="">
                                 </div>
                                 <div class="jobs-list__content">
                                     <h3 class="jobs-list__title"><a href="job-category/security-guard"><?= $data[3] ?> (<?= $data[5] ?>)</a></h3>
