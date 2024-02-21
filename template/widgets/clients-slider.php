@@ -48,7 +48,7 @@
                     }
             ?>
             <div class="client-carousel__one__item">
-                <img src="assets/images/clients/<?= $data[1] ?>" alt="<?= $data[0] ?>">
+                <img src="assets/images/clients/<?= $data[2] ?>" alt="<?= $data[1]." - ". $data[0] ?>">
             </div><!-- /.owl-slide-item-->
             <?php
                 endwhile;
