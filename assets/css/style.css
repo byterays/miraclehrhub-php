@@ -12044,7 +12044,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 
 .jobs-list__title {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 800;
   color: var(--hiredots-primary, #0b2f81);
   letter-spacing: var(--hiredots-letter-space-sm, -0.04em);
@@ -12053,7 +12053,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 
 .jobs-list__sub-title {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
   color: var(--hiredots-black, #0b182a);
   letter-spacing: var(--hiredots-letter-space-sm, -0.04em);
