@@ -8329,7 +8329,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 .client-carousel-one .client-carousel__one__item img {
   transition: all 500ms ease;
-  opacity: 0.3;
+  opacity: 0.9;
   max-width: 100%;
   width: auto;
 }
