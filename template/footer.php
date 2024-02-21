@@ -156,6 +156,21 @@
 </div>
 <!-- /.search-popup -->
 
+<div class="modal fade" id="modal-popup" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-centered">
+        <div class="modal-content">
+           
+            <div class="modal-body">
+              
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              
+            </div>
+        </div>
+    </div>
+</div>
+
 <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
     <span class="scroll-to-top__text">back top</span>
     <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span>
@@ -184,6 +199,19 @@
 <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
 <!-- template js -->
 <script src="assets/js/miracle.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $(".job-detail").click(function(e){
+            e.preventDefault();
+            var modal_content = $(this).closest(".job-info").html();
+           
+             $(".modal-body").html("").append(modal_content);
+             //bootstrap.Modal('#modal-popup');
+            return false;
+        });
+
+    });
+</script>
 </body>
 
 </html>

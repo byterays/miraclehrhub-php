@@ -12262,3 +12262,9 @@ body.megamenu-popup-active .mobile-nav__content {
   color:var(--hiredots-base, #00cde5);
   margin:auto 5px auto -5px;
 }
+
+
+.modal-body .job-detail{
+  display: none;
+  visibility: hidden;
+}
