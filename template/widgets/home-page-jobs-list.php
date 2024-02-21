@@ -21,7 +21,7 @@
                         <div class="jobs-list__card my-1 p-2 ">
                             <div class="jobs-list__left">
                                 <div class="jobs-list__logo">
-                                    <img width="150" src="assets/images/jobs/<?= $data[2]?>" alt="">
+                                    <img width="150" src="assets/images/jobs/<?= $data[2] ?>" alt="">
                                 </div>
                                 <div class="jobs-list__content">
                                     <h3 class="jobs-list__title"><a href="job-category/security-guard"><?= $data[3] ?> (<?= $data[5] ?>)</a></h3>
@@ -29,16 +29,22 @@
                                     <!-- <span class="jobs-list__location">San Fransisco, California</span> -->
                                     <!-- <span class="jobs-list__price"><b>$85,000 - $90,000</b> Per Year</span> -->
                                     <span class="jobs-list__time"><i class="fas fa-clock"></i> Posted On: <?= $data[9] ?> </span>
-                                    <a href="contact" class="hiredots-btn gray job-detail" data-bs-toggle="modal" data-bs-target="#modal-popup"> <i class="fa fa-eye"></i>View Details </a>
+
+                                    <div class="col-md-12">
+                                        <a href="contact" class="hiredots-btn gray job-detail" data-bs-toggle="modal" data-bs-target="#modal-popup"> <i class="fa fa-eye"></i>View Details </a>
+
+
+                                        <?php if ($data[8] == "yes") : ?>
+
+                                            <a href="contact" class="hiredots-btn">Apply Now</a>
+                                        <?php else : ?>
+                                            <span class="hiredots-btn red">Job Closed</span>
+                                        <?php endif; ?>
+                                    </div>
+
+
                                 </div>
-                            </div>
-                            <div class="jobs-list__right">
-                                <?php if ($data[8] == "yes") : ?>
-                                    <a href="contact" class="hiredots-btn">Available</a>
-                                    <a href="contact" class="hiredots-btn">Apply</a>
-                                <?php else : ?>
-                                    <span class="hiredots-btn red">Closed</span>
-                                <?php endif; ?>
+
 
 
                             </div>
