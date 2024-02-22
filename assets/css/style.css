@@ -12264,7 +12264,8 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 
 
-.modal-body .job-detail{
+.modal-body .job-detail,
+.job-info .jobs-list__price{
   display: none;
   visibility: hidden;
 }

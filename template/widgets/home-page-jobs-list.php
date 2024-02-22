@@ -27,7 +27,7 @@
                                     <h3 class="jobs-list__title"><a href="job-category/security-guard"><?= $data[3] ?> (<?= $data[5] ?>)</a></h3>
                                     <h4 class="jobs-list__sub-title"><a href="job-category/security-guard"><?= $data[1] ?></a></h4>
                                     <!-- <span class="jobs-list__location">San Fransisco, California</span> -->
-                                    <span class="jobs-list__price"><b>$data[8]</b></span>
+                                    <span class="jobs-list__price">Salary: <b><?=$data[6]?></b></span>
                                     <span class="jobs-list__time"><i class="fas fa-clock"></i> Posted On: <?= $data[9] ?> </span>
 
                                     <div class="col-md-12">
