@@ -12012,8 +12012,8 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 
 .jobs-list__logo {
-  width: 150px;
-  height: 144px;
+  max-width: 150px;
+  max-height: 150px;
   line-height: 144px;
   margin-right: 50px;
   text-align: center;
