@@ -12230,8 +12230,6 @@ body.megamenu-popup-active .mobile-nav__content {
 
 /*# sourceMappingURL=hiredots.css.map */
 
-
-
 /** custom css **/
 .upper-bar::before {
   content: "";
@@ -12244,8 +12242,6 @@ body.megamenu-popup-active .mobile-nav__content {
   margin-left: auto;
   margin-right: auto;
 }
-
-
 
 .hiredots-btn.red {
   background-color: #EA0505;
@@ -12263,9 +12259,12 @@ body.megamenu-popup-active .mobile-nav__content {
   margin:auto 5px auto -5px;
 }
 
-
 .modal-body .job-detail,
 .job-info .jobs-list__price{
   display: none;
   visibility: hidden;
+}
+
+.jobs-list__content{
+  padding-top:15px;
 }
