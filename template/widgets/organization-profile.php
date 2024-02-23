@@ -1,4 +1,4 @@
-<div class="container bg-warning  mb-5">
+<div class="container bg-warning  mb-3">
     <div class="row">
         <div class="col-md-6 ">
             <section class="row p-2">
