@@ -44,7 +44,7 @@
 
                         <div class="row bg-white p-3">
                             <div class="col-md-5 p-0">
-                                <img src="assets/images/resources/profile/bua-miracle-profile.png">
+                                <img class="profile-img" src="assets/images/resources/profile/bua-miracle-profile.png">
                             </div>
                             <div class="col-md-7 d-flex flex-column">
                                 <a href="//manpowermiracle.com" class="btn btn-warning  mb-2">Visit Website</a>
@@ -57,7 +57,7 @@
                 </div>
 
                 <div class="row mb-2 mx-0 py-2">
-                    <div class="col-md-4 bg-white">
+                    <div class="col-md-4 p-3 bg-white">
                         <div class="team-details__image">
                             <img src="assets/images/company/miracle-manpower150-1.png">
                         </div>
@@ -66,9 +66,9 @@
 
                         <div class="row bg-white p-3">
                             <div class="col-md-5 p-0">
-                                <img src="assets/images/resources/profile/miracle-nepal-profile.png">
+                                <img class="profile-img" height="159" src="assets/images/resources/profile/miracle-nepal-profile.png">
                             </div>
-                            <div class="col-md-7 d-flex flex-column align-middle">
+                            <div class="col-md-7 d-flex flex-column ">
                                 <a href="//manpowermiracle.com" class="btn btn-warning mb-2">Visit Website</a>
                                 <a href="//manpowermiracle.com" target="_blank" class="btn btn-danger mb-2">Company Profile</a>
                             </div>
