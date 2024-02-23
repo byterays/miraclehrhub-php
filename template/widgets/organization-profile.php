@@ -23,7 +23,7 @@
                         </ul><!-- /.list-unstyled team-details__list -->
                     </div><!-- /.col-lg-6 -->
                     <div class="col-lg-6 bg-white px-0">
-                        <div class="team-details__text text-center text-dark lh-base p-4 ">
+                        <div class="team-details__text text-center text-dark lh-sm p-4 ">
                             <p><strong>Dear Esteemed Clients,</strong></p>
                             <p>I am delighted to extend a warm welcome to you as the Managing Director of Bua & Miracle HR Consultancy. It is an honor to havet he opportunity to serve you and assist in fulfilling your HR needs.</p>
                             <p>At Bua & Miracle HR Consultancy, we are driven by a passion for excellence and a commitment to providing exceptional HR solutions. Our goal is to be your trusted partner, assisting you in navigating the ever-evolving talent landscape and achieving your organizational objectives.</p>
@@ -35,16 +35,16 @@
 
             <div class="col-md-6 ">
                 <div class="row mb-2 mx-0 py-2">
-                    <div class="col-md-4 p-3 bg-white ">
-                        <div class="team-details__image align-middle">
+                    <div class="col-md-4">
+                        <div class="team-details__image  bg-white p-5 ">
                             <img src="assets/images/company/bua-miracle150-1.png">
                         </div>
                     </div>
                     <div class="col-md-8 ">
 
-                        <div class="row bg-white p-3">
+                        <div class="row bg-white pt-3">
                             <div class="col-md-5 p-0">
-                                <img class="profile-img" src="assets/images/resources/profile/bua-miracle-profile.png">
+                                <center><img class="profile-img mb-3" src="assets/images/resources/profile/bua-miracle-profile.png"></center>
                             </div>
                             <div class="col-md-7 d-flex flex-column">
                                 <a href="//manpowermiracle.com" class="btn btn-warning  mb-2">Visit Website</a>
@@ -56,17 +56,17 @@
                     </div>
                 </div>
 
-                <div class="row mb-2 mx-0 py-2">
-                    <div class="col-md-4 p-3 bg-white">
-                        <div class="team-details__image">
+                <div class="row mb-2 mx-0 py-2-">
+                    <div class="col-md-4">
+                        <div class="team-details__image bg-white p-5" >
                             <img src="assets/images/company/miracle-manpower150-1.png">
                         </div>
                     </div>
                     <div class="col-md-8 ">
 
-                        <div class="row bg-white p-3">
+                        <div class="row bg-white pt-3">
                             <div class="col-md-5 p-0">
-                                <img class="profile-img" height="159" src="assets/images/resources/profile/miracle-nepal-profile.png">
+                            <center><img class="profile-img  mb-3" src="assets/images/resources/profile/miracle-nepal-profile.png"></center>
                             </div>
                             <div class="col-md-7 d-flex flex-column ">
                                 <a href="//manpowermiracle.com" class="btn btn-warning mb-2">Visit Website</a>
