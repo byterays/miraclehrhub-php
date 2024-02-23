@@ -9994,7 +9994,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 .about-three {
   position: relative;
-  padding: 120px 0 0;
+  padding: 50px 0 0;
   overflow: hidden;
 }
 
@@ -10006,7 +10006,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 .about-three__border {
   border-bottom: 1px solid var(--hiredots-border-color-2, #ced5dd);
-  padding-bottom: 120px;
+  padding-bottom: 50px;
 }
 
 @media (max-width: 767px) {
@@ -10827,7 +10827,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   background-position: top center;
   background-repeat: no-repeat;
-  padding: 120px 0 0;
+  padding: 50px 0;
 }
 
 @media (max-width: 767px) {
