@@ -1,4 +1,4 @@
-<div class="main-footer__subscribe">
+<div class="main-footer__subscribe pt-5">
     <div class="container">
         <div class="main-footer__subscribe__wrapper">
             <div class="main-footer__subscribe__left">
