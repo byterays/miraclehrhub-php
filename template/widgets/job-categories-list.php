@@ -1,6 +1,6 @@
 <section class="job-categories ">
     <div class="container">
-    <div class="sec-title text-center">
+        <div class="sec-title text-center">
             <h3 class="sec-title__title upper-bar text-success">Jobs By Category</h3><!-- /.sec-title__title -->
         </div>
         <div class="row">

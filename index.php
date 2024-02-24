@@ -8,7 +8,7 @@ $widgets = [
     "job-categories-list", "countries-list",
     "organization-profile",
     "faq-block", "project-1-block",
-    "team-1-block","clients-slider",  "footer-map"
+    "team-1-block","gallery","clients-slider",  "footer-map"
 ];
 
 foreach ($widgets as $widget) {
