@@ -1,4 +1,4 @@
-<div class="client-carousel ">
+<section class="project-one--home-three p-0">
     <div class="container">
         <div class="row">
 
@@ -18,7 +18,7 @@
                 ];
                 ?>
                 <div class="hiredots-owl__carousel owl-theme owl-carousel" data-owl-options='{
-                    "items":<?=sizeof($job_categories)?>,
+                    
                     "margin": 10,
                     "smartSpeed": 300,
                     "loop":true,
@@ -57,7 +57,9 @@
                     foreach ($job_categories as $category) {
                     ?>
                         <div class="client-carousel__one__item">
-                            <a href="#" class="btn btn-danger"><?= $category["name"] ?> </a>
+                            <center>
+                                <a href="#" class="btn btn-danger"><?= $category["name"] ?> </a>
+                            </center>
                         </div><!-- /.owl-slide-item-->
                     <?php
                     }
@@ -67,6 +69,6 @@
                 </div><!-- /.thm-owl__slider -->
             </div>
         </div>
-        
+
     </div><!-- /.container -->
-</div><!-- /.client-carousel -->
+</section>

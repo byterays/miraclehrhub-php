@@ -1,4 +1,4 @@
-<div class="project-one--home-three  jobs background-gray mt-50">
+<div class="project-one--home-three  jobs background-gray">
     <div class="container ">
         <div class="sec-title text-center">
             <h3 class="sec-title__title upper-bar">Latest Jobs</h3><!-- /.sec-title__title -->
