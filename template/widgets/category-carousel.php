@@ -19,36 +19,38 @@
                 ?>
                 <div class="hiredots-owl__carousel owl-theme owl-carousel" data-owl-options='{
                     
-                    "margin": 10,
-                    "smartSpeed": 300,
+                   "items":8,                    
                     "loop":true,
-                    "autoplay": 300,
+                    "slideTransition": "linear",
+                    "autoplay": true,
+                    "autoplaySpeed": 3000,                    
                     "nav":false,
                     "dots":false,
-                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                    "responsiveClass": true,
                     "responsive":{
                         "0":{
                             "items":1,
-                            "margin": 0
+                            "margin": 2
                         },
                         "360":{
                             "items":2,
-                            "margin": 30
+                            "margin": 2
                         },
                         "575":{
                             "items":3,
-                            "margin": 30
+                            "margin": 2
                         },
                         "768":{
-                            "items":3,
-                            "margin": 40
+                            "items":4,
+                            "margin":2
                         },
                         "992":{
-                            "items": 4,
-                            "margin": 40
+                            "items": 6,
+                            "margin": 2
                         },
                         "1200":{
-                            "items": 5
+                            "items":8,
+                            "margin": 2
                         }
                     }
                     }'>
@@ -56,9 +58,9 @@
 
                     foreach ($job_categories as $category) {
                     ?>
-                        <div class="client-carousel__one__item">
+                        <div class="client-carousel__one__item align-middle">
                             <center>
-                                <a href="#" class="btn btn-danger"><?= $category["name"] ?> </a>
+                                <a href="#" class="btn btn-danger no-wrap"><?= $category["name"] ?> </a>
                             </center>
                         </div><!-- /.owl-slide-item-->
                     <?php

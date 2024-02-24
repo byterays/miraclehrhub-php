@@ -12290,3 +12290,18 @@ section{
 }
 
 
+.marquee{
+  display: inline-block;
+  animation: marquee 10s linear infinite;
+  animation-delay: 5s;
+}
+
+
+@keyframes marquee {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
