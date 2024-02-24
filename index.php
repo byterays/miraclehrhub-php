@@ -4,11 +4,11 @@
 $widgets = [
     "home-page-banner", "feature-2-block",
     "feature-3-block", "service-2-block",
-    "job-category-block", "home-page-jobs-list",
+    "job-category-block", "category-carousel", "home-page-jobs-list",
     "job-categories-list", "countries-list",
-    "organization-profile",
+    "organization-profile", "team-1-block", "gallery",
     "faq-block", "project-1-block",
-    "team-1-block","gallery","clients-slider",  "footer-map"
+    "clients-slider",  "footer-map"
 ];
 
 foreach ($widgets as $widget) {

@@ -1,6 +1,6 @@
 
-<div class="project-one project-one--home-three">
-    <div class="container">
+<div class="project-one project-one--home-three background-gray">
+    <div class="container py-5">
         <div class="sec-title text-center">
 
             <h6 class="sec-title__tagline">Industries</h6><!-- /.sec-title__tagline -->
