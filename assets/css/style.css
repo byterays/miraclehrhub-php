@@ -12272,3 +12272,21 @@ body.megamenu-popup-active .mobile-nav__content {
 .profile-img{
   height:135px;
 }
+
+
+section{
+  margin:50px auto;
+}
+
+
+.job-categories a,
+.countries-list a
+{
+  margin: 2px;
+}
+
+.countries-list a img{
+  margin-right: 5px;
+}
+
+
