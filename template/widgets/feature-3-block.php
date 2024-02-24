@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="about-three__image wow fadeInLeft" data-wow-delay="300ms">
-                    <img src="assets/images/shapes/about-3-1.png" alt="hiredots">
+                    <img src="assets/images/shapes/about-3-1.png" >
                 </div><!-- /.about-three__image -->
             </div><!-- /.col-lg-6 -->
             <div class="col-lg-6 wow fadeInRight" data-wow-delay="300ms">

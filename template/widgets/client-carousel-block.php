@@ -41,34 +41,34 @@
                     }
                     }'>
                     <div class="client-carousel__one__item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="hiredots">
+                        <img src="assets/images/resources/brand-1-1.png" >
                     </div><!-- /.owl-slide-item-->
                     <div class="client-carousel__one__item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="hiredots">
+                        <img src="assets/images/resources/brand-1-1.png" >
                     </div><!-- /.owl-slide-item-->
                     <div class="client-carousel__one__item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="hiredots">
+                        <img src="assets/images/resources/brand-1-1.png" >
                     </div><!-- /.owl-slide-item-->
                     <div class="client-carousel__one__item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="hiredots">
+                        <img src="assets/images/resources/brand-1-1.png" >
                     </div><!-- /.owl-slide-item-->
                     <div class="client-carousel__one__item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="hiredots">
+                        <img src="assets/images/resources/brand-1-1.png" >
                     </div><!-- /.owl-slide-item-->
                     <div class="client-carousel__one__item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="hiredots">
+                        <img src="assets/images/resources/brand-1-1.png" >
                     </div><!-- /.owl-slide-item-->
                     <div class="client-carousel__one__item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="hiredots">
+                        <img src="assets/images/resources/brand-1-1.png" >
                     </div><!-- /.owl-slide-item-->
                     <div class="client-carousel__one__item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="hiredots">
+                        <img src="assets/images/resources/brand-1-1.png" >
                     </div><!-- /.owl-slide-item-->
                     <div class="client-carousel__one__item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="hiredots">
+                        <img src="assets/images/resources/brand-1-1.png" >
                     </div><!-- /.owl-slide-item-->
                     <div class="client-carousel__one__item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="hiredots">
+                        <img src="assets/images/resources/brand-1-1.png" >
                     </div><!-- /.owl-slide-item-->
                 </div><!-- /.thm-owl__slider -->
             </div>

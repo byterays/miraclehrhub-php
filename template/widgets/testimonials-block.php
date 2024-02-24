@@ -57,11 +57,11 @@
             </div>
             <div class="col-lg-6">
                 <div class="testimonials-three__thumbs">
-                    <div class="testimonials-three__thumbs__item"><img src="assets/images/resources/testi-3-1.jpg" alt="hiredots"></div>
-                    <div class="testimonials-three__thumbs__item"><img src="assets/images/resources/testi-3-2.jpg" alt="hiredots"></div>
-                    <div class="testimonials-three__thumbs__item"><img src="assets/images/resources/testi-3-3.jpg" alt="hiredots"></div>
-                    <div class="testimonials-three__thumbs__item"><img src="assets/images/resources/testi-3-4.jpg" alt="hiredots"></div>
-                    <div class="testimonials-three__thumbs__icon"><img src="assets/images/shapes/testimonial-icon.png" alt="hiredots"></div>
+                    <div class="testimonials-three__thumbs__item"><img src="assets/images/resources/testi-3-1.jpg" ></div>
+                    <div class="testimonials-three__thumbs__item"><img src="assets/images/resources/testi-3-2.jpg" ></div>
+                    <div class="testimonials-three__thumbs__item"><img src="assets/images/resources/testi-3-3.jpg" ></div>
+                    <div class="testimonials-three__thumbs__item"><img src="assets/images/resources/testi-3-4.jpg" ></div>
+                    <div class="testimonials-three__thumbs__icon"><img src="assets/images/shapes/testimonial-icon.png" ></div>
                 </div>
             </div>
         </div>

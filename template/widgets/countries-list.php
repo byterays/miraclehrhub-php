@@ -1,4 +1,4 @@
-<section class="countries-list background-gray py-5">
+<section class="countries-list background-gray py-5 mb-0">
     <div class="container">
         <div class="sec-title text-center">
             <h3 class="sec-title__title upper-bar text-success">Jobs By Country</h3><!-- /.sec-title__title -->

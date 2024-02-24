@@ -1,7 +1,7 @@
 <?php $contents = ob_start() ?>
 <section class="page-header">
     <div class="page-header__bg"></div>
-    <div class="page-header__shape"><img src="assets/images/shapes/page-header-shape.png" alt="hiredots"></div>
+    <div class="page-header__shape"><img src="assets/images/shapes/page-header-shape.png" ></div>
     <!-- /.page-header__bg -->
     <div class="container">
         <h2 class="page-header__title">Staffing Solution</h2>
