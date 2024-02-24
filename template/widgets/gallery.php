@@ -1,7 +1,7 @@
-<section>
+<section class="background-gray py-5">
     <div class="container">
         <div class="sec-title text-center">
-            <h3 class="sec-title__title upper-bar text-success">Gallery</h3><!-- /.sec-title__title -->
+            <h3 class="sec-title__title upper-bar ">Gallery</h3><!-- /.sec-title__title -->
         </div>
         <div class="row gutter-y-30">
             <?php
