@@ -1,4 +1,4 @@
-<section class="team-one team-one--home">
+<section class="team-one team-one--home pb-0">
             <div class="container">
                 <div class="sec-title text-center">
 

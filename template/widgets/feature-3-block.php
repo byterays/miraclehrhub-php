@@ -41,6 +41,6 @@
                 </div>
             </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
-        <div class="about-three__border"></div>
+       
     </div><!-- /.container -->
 </section><!-- /.about-three -->
