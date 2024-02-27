@@ -3740,6 +3740,7 @@ h6 {
   left: 0;
   top: 0;
   width: 100%;
+  background: #fff;
 }
 
 .main-header--three .main-header__logo {
@@ -3794,7 +3795,8 @@ h6 {
 }
 
 .main-header--three .main-menu .main-menu__list>li>a {
-  color: var(--hiredots-white, #fff);
+  /* color: var(--hiredots-white, #fff); */
+ color: var(--hiredots-primary, #0b2f81)
 }
 
 .main-header--three .main-menu .main-menu__list>li.current>a,
