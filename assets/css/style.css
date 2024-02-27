@@ -3986,7 +3986,7 @@ h6 {
   display: flex;
   align-items: center;
   color: var(--hiredots-text, #696e76);
-  font-weight: 500;
+  font-weight: 700;
   position: relative;
   transition: all 500ms ease;
 }
