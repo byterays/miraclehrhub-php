@@ -5,21 +5,21 @@ $banners = [
         "overlay-image"=>"assets/images/backgrounds/slider-overlay.png",
         "title" => "HR CONSULTANCY, RECRUITING AND PLACEMENT",
         "sub-title" => "Connecting Talent with Opportunity",
-        "button"=>["text"=>"Discover More", "link"=>"overseas-recruitment-service"]
+        "button"=>["text"=>"Discover More", "link"=>"about-us"]
     ],
     [
         "banner-image"=>"assets/images/backgrounds/slider-3-2.jpg",
         "overlay-image"=>"assets/images/backgrounds/slider-overlay.png",
         "title" => "YOUR PARTNER FOR OVERSEAS RECRUITMENT",
         "sub-title" => "Empowering Your Global Workforce",
-        "button"=>["text"=>"Discover More", "link"=>"overseas-recruitment-service"]
+        "button"=>["text"=>"Discover More", "link"=>"about-us"]
     ],
     [
         "banner-image"=>"assets/images/backgrounds/slider-3-3.jpg",
         "overlay-image"=>"assets/images/backgrounds/slider-overlay.png",
         "title" => "UNDERSTANDING YOUR UNIQUE NEEDS",
         "sub-title" => "Tailored Solutions for Your Success Journey",
-        "button"=>["text"=>"Discover More", "link"=>"overseas-recruitment-service"]
+        "button"=>["text"=>"Discover More", "link"=>"about-us"]
     ]
 
 
