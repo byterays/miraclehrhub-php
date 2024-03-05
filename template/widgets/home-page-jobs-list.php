@@ -27,7 +27,7 @@
                                     <img width="150" src="assets/images/jobs/<?= $data[2] ?>" alt="<?= $data[1] ?>">
                                 </div>
                                 <div class="jobs-list__content">
-                                    <h3 class="jobs-list__title"><a href="job-category/security-guard"><?= $data[3] ?> (<?= $data[5] ?>)</a></h3>
+                                    <h3 class="jobs-list__title"><a href="job-category/security-guard"><?= $data[4] ?> (<?= $data[5] ?>)</a></h3>
                                     <h4 class="jobs-list__sub-title"><a href="job-category/security-guard"><?= $data[1] ?></a></h4>
                                     <!-- <span class="jobs-list__location">San Fransisco, California</span> -->
                                     <span class="jobs-list__price">Salary: <b><?=$data[6]?></b></span>
