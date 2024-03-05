@@ -15,6 +15,9 @@
                         $header_row = false;
                         continue;
                     }
+
+                    //if published
+                    if($data[10]=="yes"):
             ?>
                     <!-- begin job card  -->
                     <div class="job-info col-md-6">
@@ -28,9 +31,10 @@
                                     <h4 class="jobs-list__sub-title"><a href="job-category/security-guard"><?= $data[1] ?></a></h4>
                                     <!-- <span class="jobs-list__location">San Fransisco, California</span> -->
                                     <span class="jobs-list__price">Salary: <b><?=$data[6]?></b></span>
-                                    <span class="jobs-list__time"><i class="fas fa-clock"></i> Posted On: <?= $data[9] ?> </span>
+                                    <div class="jobs-list__time"><a><?=strtoupper($data[0])?></a> <i class="fas fa-clock"></i> Posted On: <?= $data[9] ?> </div>
 
                                     <div class="col-md-12">
+                                        
                                         <a href="contact" class="hiredots-btn gray job-detail" data-bs-toggle="modal" data-bs-target="#modal-popup"> <i class="fa fa-eye"></i>View Details </a>
                                         <?php if ($data[8] == "yes") : ?>
                                             <a href="contact" class="hiredots-btn">Apply Now</a>
@@ -44,6 +48,7 @@
                     </div>
                     <!-- end job card  -->
             <?php
+                    endif;
                 endwhile;
                 fclose($handle);
             endif;

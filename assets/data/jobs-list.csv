@@ -1,9 +1,17 @@
-country,company_name,logo,job_cateogry,job_title,quota,salary,job_description,accept_application,posted_date
-Malaysia,Sasa Security Services Sdn. Bhd.,sasa-security.png,Security Sevice,Security Guard,75,1500,,yes,1/15/2024
-Malaysia,Wira Security Services Sdn Bhd.,wira-security.png,Security Sevice,Security Guard,150,1500,,yes,2/10/2024
-Malaysia,Kawalan Keselamatan Ikhlas Sdn Bhd,kawalan-keselamatan-ikhlas.png,Security Sevice,Security Guard,85,1500,,no,12/15/2023
-Malaysia,JS Security Services Sdn Bhd,js-security-services.png,Security Sevice,Security Guard,90,1500,,yes,1/25/2024
-Malaysia,Doffin Security Services Sdn Bhd.,doffin-security.png,Security Sevice,Security Guard,200,1500,,no,11/11/2023
-Malaysia,Magna Security Services Sdn Bhd.,magna-security.png,Security Sevice,Security Guard,65,1500,,yes,1/5/2024
-Malaysia,Prima Platinum Sdn. Bhd.,prima-platinum.png,Security Sevice,Security Guard,40,1500,,no,10/23/2023
-Malaysia,Global Cleaning Specialist Sdn Bhd.,global-cleaning.png,General Service,Cleaner,50,1500,,no,9/21/2023
+country,company_name,logo,job_cateogry,job_title,quota,salary,job_description,accept_application,posted_date,published
+Malaysia,Sasa Security Services Sdn. Bhd.,sasa-security.png,Security Sevice,Security Guard,75,1500,,yes,1/15/2024,no
+Malaysia,Wira Security Services Sdn Bhd.,wira-security.png,Security Sevice,Security Guard,150,1500,,yes,2/10/2024,no
+Malaysia,Kawalan Keselamatan Ikhlas Sdn Bhd,kawalan-keselamatan-ikhlas.png,Security Sevice,Security Guard,85,1500,,no,12/15/2023,no
+Malaysia,JS Security Services Sdn Bhd,js-security-services.png,Security Sevice,Security Guard,90,1500,,yes,1/25/2024,no
+Malaysia,Doffin Security Services Sdn Bhd.,doffin-security.png,Security Sevice,Security Guard,200,1500,,no,11/11/2023,no
+Malaysia,Magna Security Services Sdn Bhd.,magna-security.png,Security Sevice,Security Guard,65,1500,,yes,1/5/2024,no
+Malaysia,Prima Platinum Sdn. Bhd.,prima-platinum.png,Security Sevice,Security Guard,40,1500,,no,10/23/2023,no
+Malaysia,Global Cleaning Specialist Sdn Bhd.,global-cleaning.png,General Service,Cleaner,50,1500,,no,9/21/2023,no
+Cyprus,Ansot Recruiting,ansot-recruiting.jpg,Hotel & Restaurant,Chef,15,,,yes,1/15/2024,yes
+Cyprus,Ansot Recruiting,ansot-recruiting.jpg,Hotel & Restaurant,Chambermaid,20,,,yes,2/10/2024,yes
+Cyprus,EG ESTIA,eg-estia-cyprus.png,General Service,Spa Therapist,5,,,no,12/15/2023,yes
+Cyprus,Orthodoxou Employment,orthodoxouemployment.png,General Service,Gardener,12,,,yes,1/25/2024,yes
+Cyprus,Red-Panda,red-panda.png,General Service,Domestic Worker,20,,,no,11/11/2023,yes
+UAE,Asia Kitchen,asia-kitchen.png,Hotel & Restaurant,Waiter/Waitress,40,,,yes,1/5/2024,yes
+UAE,Asia Kitchen,asia-kitchen.png,Hotel & Restaurant,Cook,14,,,no,10/23/2023,yes
+Canada,Agri-Fresh,agrifresh.jpg,Driving,Truck Driver,4,,,no,9/21/2023,yes
