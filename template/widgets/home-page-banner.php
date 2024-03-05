@@ -52,6 +52,26 @@
                 </div>
             </div>
         </div>
+        <div class="item">
+            <div class="main-slider-three__item">
+                <div class="main-slider-three__bg" style="background-image: url(assets/images/backgrounds/slider-3-3.jpg);"></div>
+                <div class="main-slider-three__overlay" style="background-image: url(assets/images/shapes/slider-overlay.png);"></div>
+                <div class="main-slider-three__shape"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="main-slider-three__content">
+                                <h2 class="main-slider-three__title">YOUR PARTNER FOR<br/> OVERSEAS RECRUITMENT</h2><!-- slider-title -->
+                                <p class="main-slider-three__text">Solving Recruitment Using Technology</p><!-- slider-text -->
+                                <div class="main-slider-three__btn">
+                                    <a href="miracle-hrhub-staffing-solution" class="hiredots-btn"><span>Discover More</span></a><!-- slider-btn -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <!-- main-slider-end -->
